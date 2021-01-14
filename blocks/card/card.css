@@ -27,9 +27,6 @@
 @media all and (max-width:320px) {
     .card {
         width: 320px;
-    }
-
-    .card {
         margin-top: 50px;
     }
 
