@@ -1,0 +1,6 @@
+.header__lang-links {
+    min-height: 60px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}

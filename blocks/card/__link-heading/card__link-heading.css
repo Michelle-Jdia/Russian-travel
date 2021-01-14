@@ -1,0 +1,15 @@
+.card__link-heading {
+    color: #aaaaaa;
+    font-size: 12px;
+    line-height: 1;
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+@media all and (max-width:320px) {
+    .card__link-heading {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

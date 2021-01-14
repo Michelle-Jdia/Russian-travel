@@ -1,0 +1,9 @@
+.card__main-text {
+    margin: 0;
+}
+@media all and (max-width:320px) {
+    .card__main-text {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}
