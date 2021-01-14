@@ -18,4 +18,4 @@
 * Внедрение анимации;
 * Добавление префиксов к свойствам для кроссбраузерности.
 ------
- [Ссылка на гитхаб](https://github.com/Michelle-Jdia/Russian-travel.git)
+ [Ссылка на гитхаб](https://michelle-jdia.github.io/Russian-travel/index.html)
