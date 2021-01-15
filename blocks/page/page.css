@@ -3,6 +3,7 @@
     margin: 0 auto;
     min-width: 320px;
      background-color: #2A2C2F;
+     max-width: 1280px;
 }
 @media all and (max-width: 1024px) {
     .page {

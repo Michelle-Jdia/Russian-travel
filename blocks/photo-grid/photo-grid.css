@@ -4,16 +4,12 @@
     display: flex;
     justify-content: center;
 }
-<<<<<<< HEAD
 
-@media all and (max-width: 320px) {
-=======
 @media all and (max-width:1200px) {
     .photo-grid {
         max-width: 95%;
     }
 @media all and (max-width:320px) {
->>>>>>> gh-pages
     .photo-grid {
         margin-bottom: 64px;
     }

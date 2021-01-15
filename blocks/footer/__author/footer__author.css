@@ -6,7 +6,7 @@
     margin: 0;
 
 }
-@media all and (max-width: 624px) {
+@media all and (max-width: 660px) {
     .footer__author {
         margin: 48px 0 24px 0;
     }
