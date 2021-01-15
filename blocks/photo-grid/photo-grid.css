@@ -9,6 +9,8 @@
     .photo-grid {
         max-width: 95%;
     }
+}
+
 @media all and (max-width:320px) {
     .photo-grid {
         margin-bottom: 64px;
