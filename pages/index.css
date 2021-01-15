@@ -38,7 +38,7 @@
 /* end photo-grid */
 
 /* start places */
-@import url('../blocks/placses/places.css');
+@import url('../blocks/places/places.css');
 @import url('../blocks/card/card.css');
 @import url('../blocks/card/__title/card__title.css');
 @import url('../blocks/card/__link-heading/card__link-heading.css');
