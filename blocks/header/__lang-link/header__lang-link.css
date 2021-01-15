@@ -4,7 +4,12 @@
     color: #ffffff;
     font-weight: normal;
     line-height: 1.1;
+    transition: opacity linear 0.25s;
 }
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
 
 .header__lang-link:last-child {
     margin-left: 18px;

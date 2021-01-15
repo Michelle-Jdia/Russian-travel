@@ -4,7 +4,6 @@
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 16px;
-    /* max-width: 100%; */
 }
 @media all and (max-width: 1024px) {
     .photo-grid__container {

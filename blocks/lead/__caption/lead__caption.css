@@ -6,6 +6,7 @@
     color: #ffffff;
     margin: 8px 0 0;
     align-self: flex-start;
+    text-transform: uppercase;
 }
 @media all and (max-width:768px) {
     .lead__caption {
